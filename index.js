@@ -94,4 +94,5 @@
 
 // 
 s
-console.log(1);
+javascript
+
