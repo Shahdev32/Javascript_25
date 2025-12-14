@@ -93,6 +93,5 @@
 
 
 // 
-s
-javascript
 
+ javascript
